@@ -1,0 +1,58 @@
+body{
+	margin:0;
+	padding:0;
+	background-size:cover;
+	background-image:url(flower-3175428_1920.jpg);
+	font-family:tahoma;
+}
+
+.our-form{
+	
+	width:800px;
+	height:300px;
+	margin:70px ;	
+	
+}
+
+.our-form input{
+	display:block;
+	width:700px;
+	font-size:18px;
+	background:transparent;
+	color:#fff;
+	border:1px solid #fff;
+	border-radius:5px;
+	 
+	
+}
+
+.our-form label{
+	
+	padding:5px 0;
+	color:maroon;
+	font-size:17px;
+	display:block;
+	
+}
+
+.our-form h2,p{
+	
+	text-align:center;
+	
+}
+
+.our-form input[type=submit]{
+	
+	width:200px;
+	margin:10px auto;
+	color:black;
+
+}
+
+
+
+
+
+
+
+
